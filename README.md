@@ -18,7 +18,7 @@ Clone o repositório:
 
   
 
-    git clone 
+    git clone https://github.com/melomatheuss/AA-memoria-virtual.git
 
 Navegue até a pasta do projeto e compile o programa:
 
