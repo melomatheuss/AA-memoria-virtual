@@ -24,7 +24,7 @@ Navegue até a pasta do projeto e compile o programa:
 
 
 
-    gcc -o verifica_biblia verifica_biblia.c
+    gcc -o memoriaVirtual memoriaVirtual.c
 
 #  Execução
 
@@ -32,7 +32,7 @@ Após a compilação, execute o programa com o seguinte comando:
 
 
 
-    ./verifica_biblia
+    ./memoriaVirtual
 
 Saída Esperada
 
